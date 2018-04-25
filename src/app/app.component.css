@@ -1,0 +1,22 @@
+.jumbotron {
+    text-align: center;
+    background-color: transparent;
+    margin-bottom: 0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  
+  .jumbotron .btn {
+    padding: 14px 24px;
+    font-size: 21px;
+  }
+  
+  .footer {
+    position:fixed;
+    bottom:0px;
+  
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+    border-top: 1px solid #eee;
+  }
